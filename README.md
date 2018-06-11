@@ -7,3 +7,8 @@ Python Modules Requirements :
 - beem (https://github.com/holgern/beem) v0.19.20
 - steem (https://github.com/steemit/steem-python) v1.0.0
 - python-dateutil (https://github.com/dateutil/dateutil) v2.7.2
+
+
+## License
+
+This code is licensed under the MIT License.
